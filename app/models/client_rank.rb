@@ -1,0 +1,2 @@
+class ClientRank < ApplicationRecord
+end

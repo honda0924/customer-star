@@ -1,0 +1,3 @@
+class ActCat < ApplicationRecord
+  
+end
